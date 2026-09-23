@@ -1,8 +1,8 @@
 class AeronCache < Formula
   desc "Aeron Cache Monolith, UI, and MCP"
   homepage "https://github.com/bhf/aeron-cache"
-  url "https://github.com/bhf/aeron-cache/releases/download/v0.0.38-SNAPSHOT/cache-monolith-v0.0.38-SNAPSHOT.tar.gz"
-  sha256 "edca0afb5a6a3023c3f722bf2096958c04015f5c579ea8f544ce8daccee1abda"
+  url "https://github.com/bhf/aeron-cache/releases/download/v0.0.0-ghcr-test/cache-monolith-v0.0.0-ghcr-test.tar.gz"
+  sha256 "a0a5e185c3317fb571e710b460d7535996e46a3cbec903f849a49e43609a7c09"
   license "Apache-2.0"
 
   depends_on "openjdk"
